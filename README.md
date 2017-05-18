@@ -1,9 +1,10 @@
 ## Neural Extractive Summarization with Side Information
 
 
-**Neural Extractive Summarization with Side Information Shashi Narayan
-Nikos Papasarantopoulos Mirella Lapata Shay B. Cohen ILCC, School of
-Informatics, University of Edinburgh, arXiv:1704.04530 (preprint)**
+**Neural Extractive Summarization with Side Information, Shashi
+Narayan, Nikos Papasarantopoulos, Mirella Lapata, Shay B. Cohen, ILCC,
+School of Informatics, University of Edinburgh, arXiv:1704.04530
+(preprint)**
 
 > Most extractive summarization methods focus on the main body of the
 > document from which sentences need to be extracted.  The gist of the
