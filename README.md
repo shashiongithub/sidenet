@@ -1,9 +1,11 @@
 ## Neural Extractive Summarization with Side Information
 
-We will soon release our code and dataset (sometime in August 2017). But an unofficial version of the dataset is available on request. Please let me know if you need them. 
+We will soon release our code and dataset (sometime in August 2017). But an unofficial version of the dataset can be downloaded here: 
+Dataset with sideinfo: http://kinloch.inf.ed.ac.uk/public/cnn-dm-sideinfo-data.zip
+Dataset with oracle labels: http://kinloch.inf.ed.ac.uk/public/cnn-dm-sidenet-oracle.zip
+Live Demo: http://kinloch.inf.ed.ac.uk/sidenet.html
 
-Demo: http://kinloch.inf.ed.ac.uk/sidenet.html
-
+Please cite this paper if you use these datasets:
 
 **Neural Extractive Summarization with Side Information, Shashi
 Narayan, Nikos Papasarantopoulos, Mirella Lapata, Shay B. Cohen, ILCC,
