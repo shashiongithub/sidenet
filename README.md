@@ -1,5 +1,9 @@
 ## Neural Extractive Summarization with Side Information
 
+We will soon release our code and dataset (sometime in August 2017). But an unofficial version of the dataset is available on request. Please let me know if you need them. 
+
+Demo: http://kinloch.inf.ed.ac.uk/sidenet.html
+
 
 **Neural Extractive Summarization with Side Information, Shashi
 Narayan, Nikos Papasarantopoulos, Mirella Lapata, Shay B. Cohen, ILCC,
@@ -19,6 +23,3 @@ School of Informatics, University of Edinburgh, arXiv:1704.04530
 > extractive summarization with side information consistently
 > outperforms its counterpart (that does not use any side information),
 > in terms on both informativeness and fluency.
-
-       
-* Tensorflow Code coming soon.
