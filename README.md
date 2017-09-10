@@ -1,6 +1,6 @@
 ## Neural Extractive Summarization with Side Information
 
-We will soon release our code and dataset (sometime in August 2017). But an unofficial version of the dataset can be downloaded here: 
+Our paper is under review. We will soon release our code. But an unofficial version of the dataset can be downloaded here: 
 
 Dataset with sideinfo: http://kinloch.inf.ed.ac.uk/public/cnn-dm-sideinfo-data.zip
 
