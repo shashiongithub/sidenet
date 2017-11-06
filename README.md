@@ -1,14 +1,13 @@
 ## Neural Extractive Summarization with Side Information
 
-Our paper is under review. We will soon release our code. But an unofficial version of the dataset can be downloaded here: 
+This repository releases codes for SideNet (Neural Extractive
+Summarization with Side Information). They use Tensorflow 0.10, please
+use scripts provided by Tensorflow to translate them to newer
+upgrades.
 
-Dataset with sideinfo: http://kinloch.inf.ed.ac.uk/public/cnn-dm-sideinfo-data.zip
+Please contact me at shashi.narayan@ed.ac.uk for any question.
 
-Dataset with oracle labels: http://kinloch.inf.ed.ac.uk/public/cnn-dm-sidenet-oracle.zip
-
-Live Demo: http://kinloch.inf.ed.ac.uk/sidenet.html
-
-Please cite this paper if you use these datasets:
+Please cite this paper if you use any of these:
 
 **Neural Extractive Summarization with Side Information, Shashi
 Narayan, Nikos Papasarantopoulos, Mirella Lapata, Shay B. Cohen, ILCC,
@@ -28,3 +27,15 @@ School of Informatics, University of Edinburgh, arXiv:1704.04530
 > extractive summarization with side information consistently
 > outperforms its counterpart (that does not use any side information),
 > in terms on both informativeness and fluency.
+
+
+### The CNN and DM  dataset (Hermann et al 2015) with Side Information ###
+
+Dataset with sideinfo: http://kinloch.inf.ed.ac.uk/public/cnn-dm-sideinfo-data.zip
+
+Dataset with oracle labels: http://kinloch.inf.ed.ac.uk/public/cnn-dm-sidenet-oracle.zip
+
+### Demonstration ###
+
+Live Demo: http://kinloch.inf.ed.ac.uk/sidenet.html
+
