@@ -10,7 +10,7 @@ Please contact me at shashi.narayan@ed.ac.uk for any question.
 Please cite this paper if you use any of these:
 
 **Neural Extractive Summarization with Side Information, Shashi
-Narayan, Nikos Papasarantopoulos, Mirella Lapata, Shay B. Cohen, ILCC,
+Narayan, Nikos Papasarantopoulos, Shay B. Cohen, Mirella Lapata, ILCC,
 School of Informatics, University of Edinburgh, arXiv:1704.04530
 (preprint)**
 
