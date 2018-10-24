@@ -35,6 +35,11 @@ Dataset with sideinfo: http://kinloch.inf.ed.ac.uk/public/cnn-dm-sideinfo-data.z
 
 Dataset with oracle labels: http://kinloch.inf.ed.ac.uk/public/cnn-dm-sidenet-oracle.zip
 
+### Preprocessed CNN dataset used for training and testing ###
+
+Preprocessed CNN dataset: http://kinloch.inf.ed.ac.uk/public/sidenet-cnn-inputs.tar.gz
+CNN Original Sentence: http://kinloch.inf.ed.ac.uk/public/cnn-original-sents.zip
+
 ### Demonstration ###
 
 Live Demo: http://kinloch.inf.ed.ac.uk/sidenet.html
