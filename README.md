@@ -39,7 +39,9 @@ Dataset with oracle labels: http://kinloch.inf.ed.ac.uk/public/cnn-dm-sidenet-or
 
 Preprocessed CNN dataset: http://kinloch.inf.ed.ac.uk/public/sidenet-cnn-inputs.tar.gz
 
-CNN Original Sentence: http://kinloch.inf.ed.ac.uk/public/cnn-original-sents.zip
+CNN Original Sentence (test and validation sets): http://kinloch.inf.ed.ac.uk/public/cnn-original-sents.zip
+
+CNN Gold Highlights (test and validation sets): http://kinloch.inf.ed.ac.uk/public/cnn-gold-highlights.zip
 
 ### Demonstration ###
 
