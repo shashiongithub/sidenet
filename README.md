@@ -31,17 +31,17 @@ School of Informatics, University of Edinburgh, arXiv:1704.04530
 
 ### The CNN and DM  dataset (Hermann et al 2015) with Side Information ###
 
-Dataset with sideinfo: http://kinloch.inf.ed.ac.uk/public/cnn-dm-sideinfo-data.zip
+Dataset with sideinfo: http://kinloch.inf.ed.ac.uk/public/direct/cnn-dm-sideinfo-data.zip
 
-Dataset with oracle labels: http://kinloch.inf.ed.ac.uk/public/cnn-dm-sidenet-oracle.zip
+Dataset with oracle labels: http://kinloch.inf.ed.ac.uk/public/direct/cnn-dm-sidenet-oracle.zip
 
 ### Preprocessed CNN dataset used for training and testing ###
 
-Preprocessed CNN dataset: http://kinloch.inf.ed.ac.uk/public/sidenet-cnn-inputs.tar.gz
+Preprocessed CNN dataset: http://kinloch.inf.ed.ac.uk/public/direct/sidenet-cnn-inputs.tar.gz
 
-CNN Original Sentence (test and validation sets): http://kinloch.inf.ed.ac.uk/public/cnn-original-sents.zip
+CNN Original Sentence (test and validation sets): http://kinloch.inf.ed.ac.uk/public/direct/cnn-original-sents.zip
 
-CNN Gold Highlights (test and validation sets): http://kinloch.inf.ed.ac.uk/public/cnn-gold-highlights.zip
+CNN Gold Highlights (test and validation sets): http://kinloch.inf.ed.ac.uk/public/direct/cnn-gold-highlights.zip
 
 ### Demonstration ###
 
